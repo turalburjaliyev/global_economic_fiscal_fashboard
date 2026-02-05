@@ -28,20 +28,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of the mac
 - **Fiscal Resilience:** High-income nations show more resilience; lower-income nations face budgetary pressures.
 - **Risk Distribution:** 41.47% of countries fall into "Medium Risk," requiring careful debt-to-GDP monitoring.
 
-## 🖼️ Dashboard Preview
-### General Overview
-![Overview](screenshots/overview.png)
-
-### Macroeconomic Indicators
-![Macro](screenshots/macro.png)
-
-### Fiscal Indicators
-![Fiscal](screenshots/fiscal.png)
-
-## 📌 Project Link
-You can view and download the full dashboard here:  
-[Global Economic & Fiscal Dashboard on GitHub](https://github.com/YourUsername/Global-Economic-Fiscal-Dashboard)
-
 ## 📝 How to Use
 1. Download the `.pbix` file from this repository.
 2. Open using **Power BI Desktop**.
